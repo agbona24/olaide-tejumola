@@ -9,7 +9,7 @@ import Contact from '@/components/Contact';
 
 export default function Home() {
   return (
-    <div id="home" className="min-h-screen bg-slate-900">
+    <div id="home" className="min-h-screen bg-white dark:bg-black">
       <Navigation />
       <Hero />
       <About />
